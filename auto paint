@@ -37,7 +37,7 @@ topBar.BorderColor3 = Color3.fromRGB(0,0,0)
 topBar.BackgroundColor3 = Color3.fromRGB(49,49,64)
 topBar.Size = UDim2.new(1,0,0.14,0)
 local pss = Instance.new("TextLabel",topBar)
-pss.Text = "0 paint/second"
+pss.Text = "0 noobs painting/second"
 pss.AnchorPoint = Vector2.new(0,0.5)
 pss.Size = UDim2.new(0.974,0,0.5,0)
 pss.Position = UDim2.new(0,0,0.5,0)
@@ -55,7 +55,7 @@ panelTitle.AnchorPoint = Vector2.new(0,0.5)
 panelTitle.BackgroundTransparency = 1
 panelTitle.Position = UDim2.new(0.02,0,0.5,0)
 panelTitle.Size = UDim2.new(1,0,0.5,0)
-panelTitle.Text = '<b>Paint Admin Panel</b><font size="6"> PRO</font>'
+panelTitle.Text = '<b>Daips Epic Paint Panel</b><font size="6"> PRO</font>'
 panelTitle.RichText = true
 panelTitle.TextScaled = true
 panelTitle.TextColor3 = Color3.fromRGB(255,255,255)
