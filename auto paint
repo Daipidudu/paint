@@ -1,6 +1,6 @@
 -- Settings --
 
-local color = Color3.fromRGB(255,255,255)
+local color = Color3.fromRGB(255,0,0)
 
 -- Values --
 
